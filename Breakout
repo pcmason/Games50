@@ -1,3 +1,0 @@
-Breakout game created from base code from CS50 class. Added paddle shrinking and growing to increase/decrease difficultly. 
-Also added powerup that adds to more balls when hit.
-Functional and fun game with high scores so you can compete with your friends to get the best score. 
