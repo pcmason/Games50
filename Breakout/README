@@ -1,0 +1,4 @@
+Breakout created using base code from Harvard's CS50 Intro to Game Design class.
+Fun and functional Breakout game with high scores implemented to have you and your friends compete for the highest score. 
+Added paddles shrinking/growing to increase/decrease difficulty where appropriate.
+Added powerup that adds two more balls into play when hit to make game more exciting.
